@@ -23,3 +23,12 @@ pip install django
 django-admin startproject projectName
 cd projectName
 code .
+
+Run this command inside projectName for creating the project dependencies file
+pip freeze > requirements.txt
+
+from projectName folder run
+python manage.py startapp appName
+(This creates appName folder inside the projectName)
+
+python manage.py runserver
