@@ -1,2 +1,11 @@
 High level python web framework
 Designed for fast, secure and scaleable development
+Follows MVT (model view template)
+
+Key features:
+batteries included: built in tools for authentication, ORM and admin panel
+scalable: from small apps to large
+secure: provides protection against SQL injection, CSRF
+cross platfoam: work on windows, linux, mac
+
+eg: instagram,pinterest
