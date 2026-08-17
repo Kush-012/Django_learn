@@ -8,4 +8,18 @@ scalable: from small apps to large
 secure: provides protection against SQL injection, CSRF
 cross platfoam: work on windows, linux, mac
 
-eg: instagram,pinterest
+eg: instagram, pinterest are made using django
+
+Install python
+pip install virtualenv
+virtualenv foldername
+cd foldername
+cd Scripts
+.\Activate.ps1
+cd..
+cd..
+(i am in Users/dell folder)
+pip install django
+django-admin startproject projectName
+cd projectName
+code .
