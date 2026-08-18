@@ -32,3 +32,12 @@ python manage.py startapp appName
 (This creates appName folder inside the projectName)
 
 python manage.py runserver
+
+
+
+url foams:
+
+int 
+string
+puid
+slug
